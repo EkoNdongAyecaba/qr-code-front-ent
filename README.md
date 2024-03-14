@@ -66,7 +66,7 @@ I want to learn more deeply in the way to center divs with flexbox
 
 ### Useful resources
 
-- [The Odin Project](https://www.theodinproject.com) - This helped me for uploading the and understand the project
+- [The Odin Project](https://www.theodinproject.com) - This helped me for uploading and understand the project
 
 ## Author
 
