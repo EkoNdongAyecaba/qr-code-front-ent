@@ -25,7 +25,7 @@ This project was made with the intention of make a practice about divs, how to c
 ### Links
 
 - Solution URL: [https://github.com/EkoNdongAyecaba/qr-code-front-ent](https://github.com/EkoNdongAyecaba/qr-code-front-ent)
-- Live Site URL: [https://ekondongayecaba.github.io/qr-code-front-ent]([https://ekondongayecaba.github.io/qr-code-front-ent)
+- Live Site URL: [https://ekondongayecaba.github.io/qr-code-front-ent](https://ekondongayecaba.github.io/qr-code-front-ent)
 
 ## My process
 The first thing i did was to create a new html file, i took all the information in the file who was came with the project, and then i begun to write css styles, and formatting it.
